@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Ashish Chaurasiya",
+      "type": "admin",
+      "password": "ashish123",
+      "email": "ashish@example.com",
+      "language": "English",
+      "address": "First Carpenter Street",
+      "standard": "",
+      "subjects": []
+    },
+    {
+      "name": "Rahul",
+      "type": "student",
+      "password": "student123",
+      "email": "rahul@example.com",
+      "language": "English",
+      "address": "Kumhar bada charni road Girgaon Chaupati",
+      "standard": "10th",
+      "subjects": ["Maths", "Science", "History"]
+    },
+    {
+      "name": "yashi Kesharwani",
+      "type": "student",
+      "password": "student456",
+      "email": "yashi@example.com",
+      "language": "German",
+      "address": "Berlin oak 125 street",
+      "standard": "9th",
+      "subjects": ["Maths", "History","German"]
+    }
+  ]
+  
